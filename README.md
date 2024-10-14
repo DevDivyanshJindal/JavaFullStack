@@ -35,14 +35,15 @@ Welcome to the **Java Full Stack Repository**! This repository contains a collec
 - **Java SE** (Standard Edition)
 - **Java Collections Framework**
 - **Resource Bundles for Localization**
-- **Maven** for dependency management (if applicable)
 - Basic Input/Output Operations
 
 ---
 
 ## 🔧 Languages and Tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=java,vscode" alt="Java and VS Code" width="70" height="70"/>
+</p>
 
 ---
 
@@ -53,7 +54,7 @@ To get started with the projects in this repository:
 ### 📥 Prerequisites
 
 - Ensure you have [Java JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) installed on your machine.
-- A compatible IDE (e.g., IntelliJ IDEA, Eclipse, or NetBeans) or a text editor.
+- A compatible IDE (e.g., IntelliJ IDEA, Eclipse, or Visual Studio Code) or a text editor.
 
 ### ⚙️ Installation
 
