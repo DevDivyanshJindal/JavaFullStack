@@ -43,7 +43,7 @@ Welcome to the **Java Full Stack Repository**! This repository contains a collec
 
 <p align="left">
     <a href="https://github.com/DevDivyanshJindal">
-        <img src="https://skillicons.dev/icons?i=java,vscode,replit,github,wordpress,css,html,js,python,nodejs" alt="Languages and Tools" width="200" height="60">
+        <img src="https://skillicons.dev/icons?i=java,vscode,replit,github,wordpress,css,html,js,python,nodejs" alt="Languages and Tools" width="300" height="100">
     </a>
 </p>
 
