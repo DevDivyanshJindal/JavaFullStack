@@ -41,8 +41,10 @@ Welcome to the **Java Full Stack Repository**! This repository contains a collec
 
 ## 🔧 Languages and Tools
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=java,vscode" alt="Java and VS Code" width="70" height="70"/>
+<p align="left">
+    <a href="https://github.com/DevDivyanshJindal">
+        <img src="https://skillicons.dev/icons?i=java,vscode,replit,github,wordpress,css,html,js,python,nodejs" alt="Languages and Tools" width="200" height="60">
+    </a>
 </p>
 
 ---
