@@ -6,20 +6,6 @@ Welcome to the **Java Full Stack Repository**! This repository contains a collec
 
 ---
 
-## 📖 Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Languages and Tools](#languages-and-tools)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Project Overview](#project-overview)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
-
 ## 🚀 Features
 
 - **Java Basics**: Fundamental Java concepts and syntax.
