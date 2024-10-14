@@ -6,6 +6,7 @@ Welcome to the **Java Full Stack Repository**! This repository contains a collec
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Languages and Tools](#languages-and-tools)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Project Overview](#project-overview)
@@ -28,6 +29,13 @@ Welcome to the **Java Full Stack Repository**! This repository contains a collec
 - Resource Bundles for Localization
 - Maven for dependency management (if applicable)
 - Basic Input/Output Operations
+
+## Languages and Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
 
 ## Getting Started
 
