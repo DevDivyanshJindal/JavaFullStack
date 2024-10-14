@@ -44,12 +44,13 @@ To get started with the projects in this repository:
 - Ensure you have [Java JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) installed on your machine.
 - A compatible IDE (e.g., IntelliJ IDEA, Eclipse, or Visual Studio Code) or a text editor.
 
-### 📬 Contact
-<a href="https://t.me/DevDivyansh"><img alt="Telegram" title="telegram" src="https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-</p>
 ### ⚙️ Installation
 
 1. Clone the repository to your local machine using:
    ```bash
    git clone https://github.com/DevDivyanshJindal/JavaFullStack.git
+
+### 📬 Contact
+<a href="https://t.me/DevDivyansh"><img alt="Telegram" title="telegram" src="https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+</p>
 
