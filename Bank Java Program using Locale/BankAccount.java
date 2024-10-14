@@ -33,24 +33,24 @@ public class BankAccount {
         ResourceBundle bundle;
         Scanner sc = new Scanner(System.in);
 
-        
+       
         System.out.println("Press 1 for Hindi, 2 for English, 3 for Japanese:");
         int choice = sc.nextInt();
-        sc.nextLine(); 
+        sc.nextLine();
 
         switch (choice) {
             case 1:
-                bundle = ResourceBundle.getBundle("ResourceBundle", new Locale("hi", "IN"));
+                bundle = ResourceBundle.getBundle("ResourceBundle", Locale.of("hi", "IN"));
                 break;
             case 2:
-                bundle = ResourceBundle.getBundle("ResourceBundle", new Locale("en", "US"));
+                bundle = ResourceBundle.getBundle("ResourceBundle", Locale.of("en", "IN"));
                 break;
             case 3:
-                bundle = ResourceBundle.getBundle("ResourceBundle", new Locale("ja", "JP"));
+                bundle = ResourceBundle.getBundle("ResourceBundle", Locale.of("ja", "JP"));
                 break;
             default:
                 System.out.println("Invalid option. Defaulting to English.");
-                bundle = ResourceBundle.getBundle("ResourceBundle", new Locale("en", "US"));
+                bundle = ResourceBundle.getBundle("ResourceBundle", Locale.of("en", "US"));
                 break;
         }
 
@@ -89,4 +89,3 @@ public class BankAccount {
         sc.close();
     }
 }
-
