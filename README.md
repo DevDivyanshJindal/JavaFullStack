@@ -1,8 +1,12 @@
-# Java Full Stack Repository
+# 🌟 Codes by Divyansh Jindal
 
-Welcome to the **Java Full Stack Repository**! This repository contains a collection of Java programs and projects that demonstrate my skills in Java programming, focusing on various concepts and applications.
+## Java Full Stack Repository
 
-## Table of Contents
+Welcome to the **Java Full Stack Repository**! This repository contains a collection of Java programs and projects that showcase my skills in Java programming, focusing on various concepts and applications.
+
+---
+
+## 📖 Table of Contents
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -14,7 +18,9 @@ Welcome to the **Java Full Stack Repository**! This repository contains a collec
 - [License](#license)
 - [Contact](#contact)
 
-## Features
+---
+
+## 🚀 Features
 
 - **Java Basics**: Fundamental Java concepts and syntax.
 - **Object-Oriented Programming**: Implementation of OOP principles such as inheritance, encapsulation, and polymorphism.
@@ -22,31 +28,34 @@ Welcome to the **Java Full Stack Repository**! This repository contains a collec
 - **Locale-Sensitive Applications**: Examples demonstrating the use of localization and resource bundles in Java applications.
 - **Banking System**: A simple banking application showcasing user interactions, including balance checks, deposits, and withdrawals with minimum balance requirements.
 
-## Technologies Used
+---
 
-- Java SE (Standard Edition)
-- Java Collections Framework
-- Resource Bundles for Localization
-- Maven for dependency management (if applicable)
+## 🛠 Technologies Used
+
+- **Java SE** (Standard Edition)
+- **Java Collections Framework**
+- **Resource Bundles for Localization**
+- **Maven** for dependency management (if applicable)
 - Basic Input/Output Operations
 
-## Languages and Tools
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+## 🔧 Languages and Tools
 
-## Getting Started
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+
+---
+
+## 🏁 Getting Started
 
 To get started with the projects in this repository:
 
-### Prerequisites
+### 📥 Prerequisites
 
 - Ensure you have [Java JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) installed on your machine.
 - A compatible IDE (e.g., IntelliJ IDEA, Eclipse, or NetBeans) or a text editor.
 
-### Installation
+### ⚙️ Installation
 
 1. Clone the repository to your local machine using:
    ```bash
