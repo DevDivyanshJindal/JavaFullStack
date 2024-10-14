@@ -49,7 +49,7 @@ To get started with the projects in this repository:
 1. Clone the repository to your local machine using:
    ```bash
    git clone https://github.com/DevDivyanshJindal/JavaFullStack.git
-
+---
 ### 📬 Contact
 <a href="https://t.me/DevDivyansh"><img alt="Telegram" title="telegram" src="https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 </p>
