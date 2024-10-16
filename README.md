@@ -54,11 +54,6 @@ To get started with the projects in this repository:
 ---
 
 ## 📂 Code Files Download
-## 📂 Code Files Download
-
-| Code Name                | Download Link                                                                 |
-|--------------------------|-------------------------------------------------------------------------------|
-## 📂 Code Files Download
 
 | Code Name                | Download Link                                                                 |
 |--------------------------|-------------------------------------------------------------------------------|
