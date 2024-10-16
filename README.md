@@ -58,10 +58,18 @@ To get started with the projects in this repository:
 
 | Code Name                | Download Link                                                                 |
 |--------------------------|-------------------------------------------------------------------------------|
-| FibonacciRecursion.java  | [Download](https://github.com/DevDivyanshJindal/JavaFullStack/raw/main/FibonacciRecursion.java) |
-| AnotherProgram.java      | [Download](https://github.com/DevDivyanshJindal/JavaFullStack/raw/main/AnotherProgram.java)      |
-| BankingSystem.java       | [Download](https://github.com/DevDivyanshJindal/JavaFullStack/raw/main/BankingSystem.java)       |
-| ...                      | ...                                                                           |
+## 📂 Code Files Download
+
+| Code Name                | Download Link                                                                 |
+|--------------------------|-------------------------------------------------------------------------------|
+| FibonacciRecursion.java  | [Download](https://raw.githubusercontent.com/DevDivyanshJindal/JavaFullStack/main/FibonacciRecursion.java) |
+| **FibonacciRecursion.zip**| [Download FibonacciRecursion.zip](https://github.com/DevDivyanshJindal/JavaFullStack/raw/main/FibonacciRecursion.zip) |
+
+### Instructions for Downloading
+To download the files directly to your computer:
+1. Click the "Download" link for the raw file or zip file.
+2. If prompted, choose your desired download location and click "Save."
+
 
 ---
 ### 📬 Contact
